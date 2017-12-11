@@ -2,13 +2,14 @@
   "name": "mp3-rename",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-id3": "0.1.0"
+    "electron": "1.7.9",
+    "meta-music": "0.1.0"
   }
 }
