@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "electron": "1.7.9",
-    "meta-music": "0.1.0"
+    "id3-writer": "^1.2.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.6.0"
   }
 }
